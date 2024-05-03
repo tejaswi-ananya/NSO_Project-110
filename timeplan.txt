@@ -12,7 +12,8 @@ PROJECT OVERVIEW - In this project, we aim to create a solution to deploy and op
 WORK DIVISION - Deployment      - In this stage, the required network(s), router(s), nodes, and other required items will be deployed. This will be done by Sachin and Rohith.
 	      - Operations      - Monitor the required number of nodes present, and deploy or remove the nodes accordingly. This will be done by Tejaswi and Rohith.
               - Cleanup         - Release and remove all cloud resources allocated. This will be done by Sailusha and Sachin
-	      - Report writing  - Brief description of design, motivation as to why it is a good design and what alternatives were considered. Report writing will include every group 					  member's contribution and involvement. 
+	      - Report writing  - Brief description of design, motivation as to why it is a good design and what alternatives were considered. Report writing will 
+                                  include every group member's contribution and involvement. 
 
 
 
