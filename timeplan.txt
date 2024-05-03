@@ -1,0 +1,24 @@
+ET2598 - NETWORK AND SERVICE OPERATIONS - PROJECT - TIME & ACTIVITY PLAN
+
+GROUP - PROJECT-110 
+
+GROUP MEMBERS - 1. Tejaswi Ananya Talagani
+		2. Rohith Racharla
+		3. Sachin Chaitanya Karangula
+		4. Sailusha Reddy Ketha
+
+PROJECT OVERVIEW - In this project, we aim to create a solution to deploy and operate a service within an OpenStack cloud environment, utilizing technologies such as OpenStack, HAProxy, Nginx, keepalived, and various monitoring tools. The solution will involve deploying and managing service nodes, proxy nodes, and a bastion node, while ensuring high availability, load balancing, and automated scaling based on demand, ultimately achieving a robust and scalable service deployment. Initially, we access the cloud via an openrc file with the required credentials. Next, the solution will have three operating modes - Deployment, Operations and Cleanup. 
+
+WORK DIVISION - Deployment      - In this stage, the required network(s), router(s), nodes, and other required items will be deployed. This will be done by Sachin and Rohith.
+	      - Operations      - Monitor the required number of nodes present, and deploy or remove the nodes accordingly. This will be done by Tejaswi and Rohith.
+              - Cleanup         - Release and remove all cloud resources allocated. This will be done by Sailusha and Sachin
+	      - Report writing  - Brief description of design, motivation as to why it is a good design and what alternatives were considered. Report writing will include every group 					  member's contribution and involvement. 
+
+
+
+
+
+
+
+
+
